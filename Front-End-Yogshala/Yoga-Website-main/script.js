@@ -14,10 +14,10 @@
       var mixer = mixitup(containerEl);
     }
 
-    $(".blog-gird").masonry({
-      itemSelector: ".grid-item",
-      columnWidth: ".grid-sizer",
-    });
+    // $(".blog-gird").masonry({
+    //   itemSelector: ".grid-item",
+    //   columnWidth: ".grid-sizer",
+    // });
   });
 
   $(".set-bg").each(function () {
